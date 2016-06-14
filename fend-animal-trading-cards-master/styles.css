@@ -1,0 +1,47 @@
+/* add your CSS here */
+#card{
+  border-style: solid;
+  border-color: #c0c0C0;
+  box-shadow: 1px 1px 10px #c0c0C0;
+  border-width: 2px;
+  padding: 5px;
+  width: 300px;
+  font-family: helvetica, arial, sans-serif;
+}
+
+#info{
+  border-style: solid;
+  border-color: #c0c0C0;
+  border-width: 1px;
+  width: 287px;
+  padding: 5px;
+}
+
+#corgi{
+  width:300px;
+  height:auto;
+}
+
+#title {
+  font-weight
+}
+
+.label{
+  font-weight: bold;
+}
+
+.fact{
+  font-style: italic;
+}
+
+
+
+li{
+  font-style: italic;
+}
+
+ul{
+  list-style-type: none;
+  padding:0;
+  margin:0;
+}
